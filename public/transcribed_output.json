@@ -1,0 +1,1157 @@
+{
+    "text": " Did you know that in the Valencian town of B\u00fa\u00f1ol, Spain, there's a unique tradition known as La Tomatina. Every year people gather to engage in the world's biggest food fight, hurling tomatoes at each other. Now that's what I call a smashing good time. But it's not just about the tomatoes. Spanish cuisine is renowned worldwide, with dishes like paella, tapas, and churros. And let's not forget flamenco, the traditional dance of Spain, known for its emotional intensity, proud carriage, expressive use of the arms and rhythmic stamping of the feet. So if you're looking for a place where life is a fiesta, Spain is the place to be. Want to explore more such intriguing cultures? Drop a comment below.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 5.86,
+            "text": " Did you know that in the Valencian town of B\u00fa\u00f1ol, Spain, there's a unique tradition known as La Tomatina.",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                458,
+                300,
+                294,
+                264,
+                7188,
+                30322,
+                282,
+                3954,
+                295,
+                363,
+                2481,
+                2791,
+                401,
+                11,
+                12838,
+                11,
+                456,
+                311,
+                257,
+                3845,
+                6994,
+                2570,
+                382,
+                2369,
+                5041,
+                267,
+                1426,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25752365943228844,
+            "compression_ratio": 1.4861660079051384,
+            "no_speech_prob": 0.01608249358832836,
+            "confidence": 0.816,
+            "words": [
+                {
+                    "text": "Did",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "confidence": 0.964
+                },
+                {
+                    "text": "you",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "know",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "that",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "confidence": 0.989
+                },
+                {
+                    "text": "in",
+                    "start": 0.76,
+                    "end": 0.88,
+                    "confidence": 0.983
+                },
+                {
+                    "text": "the",
+                    "start": 0.88,
+                    "end": 1.0,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "Valencian",
+                    "start": 1.0,
+                    "end": 1.64,
+                    "confidence": 0.889
+                },
+                {
+                    "text": "town",
+                    "start": 1.64,
+                    "end": 1.94,
+                    "confidence": 0.863
+                },
+                {
+                    "text": "of",
+                    "start": 1.94,
+                    "end": 2.14,
+                    "confidence": 0.991
+                },
+                {
+                    "text": "B\u00fa\u00f1ol,",
+                    "start": 2.14,
+                    "end": 2.64,
+                    "confidence": 0.704
+                },
+                {
+                    "text": "Spain,",
+                    "start": 2.84,
+                    "end": 3.06,
+                    "confidence": 0.979
+                },
+                {
+                    "text": "there's",
+                    "start": 3.6,
+                    "end": 3.76,
+                    "confidence": 0.776
+                },
+                {
+                    "text": "a",
+                    "start": 3.76,
+                    "end": 3.84,
+                    "confidence": 0.989
+                },
+                {
+                    "text": "unique",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "confidence": 0.986
+                },
+                {
+                    "text": "tradition",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "confidence": 0.947
+                },
+                {
+                    "text": "known",
+                    "start": 4.52,
+                    "end": 4.86,
+                    "confidence": 0.925
+                },
+                {
+                    "text": "as",
+                    "start": 4.86,
+                    "end": 5.08,
+                    "confidence": 0.758
+                },
+                {
+                    "text": "La",
+                    "start": 5.08,
+                    "end": 5.28,
+                    "confidence": 0.272
+                },
+                {
+                    "text": "Tomatina.",
+                    "start": 5.28,
+                    "end": 5.86,
+                    "confidence": 0.661
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.6,
+            "end": 11.44,
+            "text": " Every year people gather to engage in the world's biggest food fight, hurling tomatoes at each other.",
+            "tokens": [
+                50672,
+                2048,
+                1064,
+                561,
+                5448,
+                281,
+                4683,
+                294,
+                264,
+                1002,
+                311,
+                3880,
+                1755,
+                2092,
+                11,
+                2756,
+                1688,
+                15135,
+                412,
+                1184,
+                661,
+                13,
+                50948
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25752365943228844,
+            "compression_ratio": 1.4861660079051384,
+            "no_speech_prob": 0.01608249358832836,
+            "confidence": 0.938,
+            "words": [
+                {
+                    "text": "Every",
+                    "start": 6.6,
+                    "end": 6.86,
+                    "confidence": 0.985
+                },
+                {
+                    "text": "year",
+                    "start": 6.86,
+                    "end": 7.08,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "people",
+                    "start": 7.08,
+                    "end": 7.34,
+                    "confidence": 0.629
+                },
+                {
+                    "text": "gather",
+                    "start": 7.34,
+                    "end": 7.68,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "to",
+                    "start": 7.68,
+                    "end": 7.9,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "engage",
+                    "start": 7.9,
+                    "end": 8.2,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "in",
+                    "start": 8.2,
+                    "end": 8.44,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "the",
+                    "start": 8.44,
+                    "end": 8.56,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "world's",
+                    "start": 8.56,
+                    "end": 8.9,
+                    "confidence": 0.978
+                },
+                {
+                    "text": "biggest",
+                    "start": 8.9,
+                    "end": 9.14,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "food",
+                    "start": 9.14,
+                    "end": 9.44,
+                    "confidence": 0.991
+                },
+                {
+                    "text": "fight,",
+                    "start": 9.44,
+                    "end": 9.78,
+                    "confidence": 0.9
+                },
+                {
+                    "text": "hurling",
+                    "start": 10.14,
+                    "end": 10.44,
+                    "confidence": 0.802
+                },
+                {
+                    "text": "tomatoes",
+                    "start": 10.44,
+                    "end": 10.8,
+                    "confidence": 0.971
+                },
+                {
+                    "text": "at",
+                    "start": 10.8,
+                    "end": 11.06,
+                    "confidence": 0.982
+                },
+                {
+                    "text": "each",
+                    "start": 11.06,
+                    "end": 11.2,
+                    "confidence": 0.99
+                },
+                {
+                    "text": "other.",
+                    "start": 11.2,
+                    "end": 11.44,
+                    "confidence": 0.942
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.82,
+            "end": 13.68,
+            "text": " Now that's what I call a smashing good time.",
+            "tokens": [
+                50948,
+                823,
+                300,
+                311,
+                437,
+                286,
+                818,
+                257,
+                43316,
+                665,
+                565,
+                13,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25752365943228844,
+            "compression_ratio": 1.4861660079051384,
+            "no_speech_prob": 0.01608249358832836,
+            "confidence": 0.959,
+            "words": [
+                {
+                    "text": "Now",
+                    "start": 11.82,
+                    "end": 11.96,
+                    "confidence": 0.977
+                },
+                {
+                    "text": "that's",
+                    "start": 11.96,
+                    "end": 12.18,
+                    "confidence": 0.866
+                },
+                {
+                    "text": "what",
+                    "start": 12.18,
+                    "end": 12.28,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "I",
+                    "start": 12.28,
+                    "end": 12.36,
+                    "confidence": 0.996
+                },
+                {
+                    "text": "call",
+                    "start": 12.36,
+                    "end": 12.52,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "a",
+                    "start": 12.52,
+                    "end": 12.66,
+                    "confidence": 0.988
+                },
+                {
+                    "text": "smashing",
+                    "start": 12.66,
+                    "end": 13.02,
+                    "confidence": 0.984
+                },
+                {
+                    "text": "good",
+                    "start": 13.02,
+                    "end": 13.34,
+                    "confidence": 0.949
+                },
+                {
+                    "text": "time.",
+                    "start": 13.34,
+                    "end": 13.68,
+                    "confidence": 0.983
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.66,
+            "end": 21.9,
+            "text": " But it's not just about the tomatoes. Spanish cuisine is renowned worldwide, with dishes like paella, tapas, and churros.",
+            "tokens": [
+                51076,
+                583,
+                309,
+                311,
+                406,
+                445,
+                466,
+                264,
+                15135,
+                13,
+                8058,
+                25257,
+                307,
+                34065,
+                13485,
+                11,
+                365,
+                10814,
+                411,
+                2502,
+                9885,
+                11,
+                5119,
+                296,
+                11,
+                293,
+                417,
+                374,
+                2635,
+                13,
+                51484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25752365943228844,
+            "compression_ratio": 1.4861660079051384,
+            "no_speech_prob": 0.01608249358832836,
+            "confidence": 0.903,
+            "words": [
+                {
+                    "text": "But",
+                    "start": 14.66,
+                    "end": 14.8,
+                    "confidence": 0.996
+                },
+                {
+                    "text": "it's",
+                    "start": 14.8,
+                    "end": 14.98,
+                    "confidence": 0.987
+                },
+                {
+                    "text": "not",
+                    "start": 14.98,
+                    "end": 15.08,
+                    "confidence": 0.995
+                },
+                {
+                    "text": "just",
+                    "start": 15.08,
+                    "end": 15.28,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "about",
+                    "start": 15.28,
+                    "end": 15.46,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "the",
+                    "start": 15.46,
+                    "end": 15.62,
+                    "confidence": 0.995
+                },
+                {
+                    "text": "tomatoes.",
+                    "start": 15.62,
+                    "end": 15.96,
+                    "confidence": 0.975
+                },
+                {
+                    "text": "Spanish",
+                    "start": 16.34,
+                    "end": 16.64,
+                    "confidence": 0.538
+                },
+                {
+                    "text": "cuisine",
+                    "start": 16.64,
+                    "end": 17.06,
+                    "confidence": 0.988
+                },
+                {
+                    "text": "is",
+                    "start": 17.06,
+                    "end": 17.3,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "renowned",
+                    "start": 17.3,
+                    "end": 17.64,
+                    "confidence": 0.956
+                },
+                {
+                    "text": "worldwide,",
+                    "start": 17.64,
+                    "end": 18.28,
+                    "confidence": 0.976
+                },
+                {
+                    "text": "with",
+                    "start": 18.74,
+                    "end": 19.04,
+                    "confidence": 0.597
+                },
+                {
+                    "text": "dishes",
+                    "start": 19.04,
+                    "end": 19.36,
+                    "confidence": 0.958
+                },
+                {
+                    "text": "like",
+                    "start": 19.36,
+                    "end": 19.66,
+                    "confidence": 0.982
+                },
+                {
+                    "text": "paella,",
+                    "start": 19.66,
+                    "end": 20.28,
+                    "confidence": 0.697
+                },
+                {
+                    "text": "tapas,",
+                    "start": 20.54,
+                    "end": 21.08,
+                    "confidence": 0.933
+                },
+                {
+                    "text": "and",
+                    "start": 21.26,
+                    "end": 21.3,
+                    "confidence": 0.972
+                },
+                {
+                    "text": "churros.",
+                    "start": 21.3,
+                    "end": 21.9,
+                    "confidence": 0.928
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2240,
+            "start": 22.64,
+            "end": 27.9,
+            "text": " And let's not forget flamenco, the traditional dance of Spain, known for its emotional intensity,",
+            "tokens": [
+                50372,
+                400,
+                718,
+                311,
+                406,
+                2870,
+                932,
+                22403,
+                1291,
+                11,
+                264,
+                5164,
+                4489,
+                295,
+                12838,
+                11,
+                2570,
+                337,
+                1080,
+                6863,
+                13749,
+                11,
+                50660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13503660806795445,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.0385381281375885,
+            "confidence": 0.929,
+            "words": [
+                {
+                    "text": "And",
+                    "start": 22.64,
+                    "end": 22.76,
+                    "confidence": 0.962
+                },
+                {
+                    "text": "let's",
+                    "start": 22.76,
+                    "end": 22.98,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "not",
+                    "start": 22.98,
+                    "end": 23.08,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "forget",
+                    "start": 23.08,
+                    "end": 23.38,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "flamenco,",
+                    "start": 23.38,
+                    "end": 23.98,
+                    "confidence": 0.829
+                },
+                {
+                    "text": "the",
+                    "start": 24.38,
+                    "end": 24.56,
+                    "confidence": 0.953
+                },
+                {
+                    "text": "traditional",
+                    "start": 24.56,
+                    "end": 25.0,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "dance",
+                    "start": 25.0,
+                    "end": 25.3,
+                    "confidence": 0.989
+                },
+                {
+                    "text": "of",
+                    "start": 25.3,
+                    "end": 25.5,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "Spain,",
+                    "start": 25.5,
+                    "end": 25.84,
+                    "confidence": 0.974
+                },
+                {
+                    "text": "known",
+                    "start": 26.36,
+                    "end": 26.52,
+                    "confidence": 0.805
+                },
+                {
+                    "text": "for",
+                    "start": 26.52,
+                    "end": 26.7,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "its",
+                    "start": 26.7,
+                    "end": 26.86,
+                    "confidence": 0.95
+                },
+                {
+                    "text": "emotional",
+                    "start": 26.86,
+                    "end": 27.26,
+                    "confidence": 0.965
+                },
+                {
+                    "text": "intensity,",
+                    "start": 27.26,
+                    "end": 27.9,
+                    "confidence": 0.733
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2240,
+            "start": 28.42,
+            "end": 32.52,
+            "text": " proud carriage, expressive use of the arms and rhythmic stamping of the feet.",
+            "tokens": [
+                50660,
+                4570,
+                31811,
+                11,
+                40189,
+                764,
+                295,
+                264,
+                5812,
+                293,
+                46967,
+                41792,
+                295,
+                264,
+                3521,
+                13,
+                50900
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13503660806795445,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.0385381281375885,
+            "confidence": 0.952,
+            "words": [
+                {
+                    "text": "proud",
+                    "start": 28.42,
+                    "end": 28.7,
+                    "confidence": 0.978
+                },
+                {
+                    "text": "carriage,",
+                    "start": 28.7,
+                    "end": 29.22,
+                    "confidence": 0.93
+                },
+                {
+                    "text": "expressive",
+                    "start": 29.54,
+                    "end": 30.0,
+                    "confidence": 0.98
+                },
+                {
+                    "text": "use",
+                    "start": 30.0,
+                    "end": 30.34,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "of",
+                    "start": 30.34,
+                    "end": 30.5,
+                    "confidence": 1.0
+                },
+                {
+                    "text": "the",
+                    "start": 30.5,
+                    "end": 30.64,
+                    "confidence": 0.995
+                },
+                {
+                    "text": "arms",
+                    "start": 30.64,
+                    "end": 31.0,
+                    "confidence": 0.996
+                },
+                {
+                    "text": "and",
+                    "start": 31.0,
+                    "end": 31.2,
+                    "confidence": 0.641
+                },
+                {
+                    "text": "rhythmic",
+                    "start": 31.2,
+                    "end": 31.52,
+                    "confidence": 0.962
+                },
+                {
+                    "text": "stamping",
+                    "start": 31.52,
+                    "end": 31.92,
+                    "confidence": 0.989
+                },
+                {
+                    "text": "of",
+                    "start": 31.92,
+                    "end": 32.14,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "the",
+                    "start": 32.14,
+                    "end": 32.26,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "feet.",
+                    "start": 32.26,
+                    "end": 32.52,
+                    "confidence": 0.984
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2240,
+            "start": 33.16,
+            "end": 37.56,
+            "text": " So if you're looking for a place where life is a fiesta, Spain is the place to be.",
+            "tokens": [
+                50900,
+                407,
+                498,
+                291,
+                434,
+                1237,
+                337,
+                257,
+                1081,
+                689,
+                993,
+                307,
+                257,
+                283,
+                38804,
+                11,
+                12838,
+                307,
+                264,
+                1081,
+                281,
+                312,
+                13,
+                51144
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13503660806795445,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.0385381281375885,
+            "confidence": 0.96,
+            "words": [
+                {
+                    "text": "So",
+                    "start": 33.16,
+                    "end": 33.38,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "if",
+                    "start": 33.38,
+                    "end": 33.62,
+                    "confidence": 0.648
+                },
+                {
+                    "text": "you're",
+                    "start": 33.62,
+                    "end": 33.8,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "looking",
+                    "start": 33.8,
+                    "end": 34.0,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "for",
+                    "start": 34.0,
+                    "end": 34.24,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "a",
+                    "start": 34.24,
+                    "end": 34.36,
+                    "confidence": 1.0
+                },
+                {
+                    "text": "place",
+                    "start": 34.36,
+                    "end": 34.58,
+                    "confidence": 1.0
+                },
+                {
+                    "text": "where",
+                    "start": 34.58,
+                    "end": 34.8,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "life",
+                    "start": 34.8,
+                    "end": 35.0,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "is",
+                    "start": 35.0,
+                    "end": 35.18,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "a",
+                    "start": 35.18,
+                    "end": 35.26,
+                    "confidence": 0.975
+                },
+                {
+                    "text": "fiesta,",
+                    "start": 35.26,
+                    "end": 35.74,
+                    "confidence": 0.946
+                },
+                {
+                    "text": "Spain",
+                    "start": 36.14,
+                    "end": 36.54,
+                    "confidence": 0.815
+                },
+                {
+                    "text": "is",
+                    "start": 36.54,
+                    "end": 36.78,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "the",
+                    "start": 36.78,
+                    "end": 36.92,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "place",
+                    "start": 36.92,
+                    "end": 37.12,
+                    "confidence": 0.982
+                },
+                {
+                    "text": "to",
+                    "start": 37.12,
+                    "end": 37.32,
+                    "confidence": 0.996
+                },
+                {
+                    "text": "be.",
+                    "start": 37.32,
+                    "end": 37.56,
+                    "confidence": 0.998
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2240,
+            "start": 38.1,
+            "end": 40.38,
+            "text": " Want to explore more such intriguing cultures?",
+            "tokens": [
+                51144,
+                11773,
+                281,
+                6839,
+                544,
+                1270,
+                32503,
+                12951,
+                30,
+                51292
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13503660806795445,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.0385381281375885,
+            "confidence": 0.996,
+            "words": [
+                {
+                    "text": "Want",
+                    "start": 38.1,
+                    "end": 38.28,
+                    "confidence": 0.982
+                },
+                {
+                    "text": "to",
+                    "start": 38.28,
+                    "end": 38.44,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "explore",
+                    "start": 38.44,
+                    "end": 38.8,
+                    "confidence": 0.999
+                },
+                {
+                    "text": "more",
+                    "start": 38.8,
+                    "end": 39.06,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "such",
+                    "start": 39.06,
+                    "end": 39.34,
+                    "confidence": 0.997
+                },
+                {
+                    "text": "intriguing",
+                    "start": 39.34,
+                    "end": 39.82,
+                    "confidence": 0.994
+                },
+                {
+                    "text": "cultures?",
+                    "start": 39.82,
+                    "end": 40.38,
+                    "confidence": 0.999
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2240,
+            "start": 41.08,
+            "end": 42.06,
+            "text": " Drop a comment below.",
+            "tokens": [
+                51292,
+                17675,
+                257,
+                2871,
+                2507,
+                13,
+                51356
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13503660806795445,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.0385381281375885,
+            "confidence": 0.974,
+            "words": [
+                {
+                    "text": "Drop",
+                    "start": 41.08,
+                    "end": 41.24,
+                    "confidence": 0.904
+                },
+                {
+                    "text": "a",
+                    "start": 41.24,
+                    "end": 41.38,
+                    "confidence": 1.0
+                },
+                {
+                    "text": "comment",
+                    "start": 41.38,
+                    "end": 41.68,
+                    "confidence": 0.998
+                },
+                {
+                    "text": "below.",
+                    "start": 41.68,
+                    "end": 42.06,
+                    "confidence": 0.999
+                }
+            ]
+        }
+    ],
+    "language": "en",
+    "language_probs": {
+        "en": 0.9814148545265198,
+        "zh": 0.00015373495989479125,
+        "de": 5.1142338634235784e-05,
+        "es": 0.016380947083234787,
+        "ru": 2.4123994080582634e-05,
+        "ko": 7.680436101509258e-05,
+        "fr": 0.00017601309809833765,
+        "ja": 0.0007253125659190118,
+        "pt": 0.00020389117707964033,
+        "tr": 1.2554742170323152e-05,
+        "pl": 1.9751400031964295e-05,
+        "ca": 7.2321968218602706e-06,
+        "nl": 7.717281732766423e-06,
+        "ar": 1.4467531400441658e-05,
+        "sv": 2.62836397268984e-06,
+        "it": 3.2342024496756494e-05,
+        "id": 4.645086391974473e-06,
+        "hi": 1.6569296121815569e-06,
+        "fi": 5.86969963478623e-06,
+        "vi": 1.0155462405236904e-05,
+        "he": 1.1557336620171554e-05,
+        "uk": 2.2251211362345202e-07,
+        "el": 2.1599527826765552e-05,
+        "ms": 1.0425631444377359e-05,
+        "cs": 2.9774102472401864e-07,
+        "ro": 2.2806543711340055e-06,
+        "da": 6.751329806320427e-07,
+        "hu": 6.985027994232951e-06,
+        "ta": 5.18711772201641e-07,
+        "no": 1.2487555522966431e-06,
+        "th": 8.05721811047988e-06,
+        "ur": 1.2420331358953263e-06,
+        "hr": 3.7750473325104394e-07,
+        "bg": 3.2721109732847253e-07,
+        "lt": 3.3328788617836835e-07,
+        "la": 0.00026563627761788666,
+        "mi": 2.5950312192435376e-06,
+        "ml": 2.0381816057124524e-07,
+        "cy": 3.691060919663869e-05,
+        "sk": 6.29323096745793e-07,
+        "te": 2.0757782692726323e-07,
+        "fa": 6.619134182983544e-06,
+        "lv": 3.801870036568289e-07,
+        "bn": 7.529285994678503e-06,
+        "sr": 3.613069665675539e-08,
+        "az": 3.8868744667297506e-08,
+        "sl": 2.7786559257947374e-06,
+        "kn": 1.3598689463378832e-07,
+        "et": 6.425532461662442e-08,
+        "mk": 5.9431791044062265e-08,
+        "br": 8.085112312983256e-06,
+        "eu": 7.6011592682334594e-06,
+        "is": 8.086635716608725e-07,
+        "hy": 2.9987370453454787e-07,
+        "ne": 4.343470436651842e-07,
+        "mn": 6.525640401378041e-07,
+        "bs": 1.2500619561706117e-07,
+        "kk": 1.8748515628885798e-07,
+        "sq": 3.549716041106876e-07,
+        "sw": 9.09929622139316e-06,
+        "gl": 8.752769645070657e-06,
+        "mr": 8.842297916089592e-08,
+        "pa": 1.1622771012298472e-07,
+        "si": 1.0372558563176426e-06,
+        "km": 1.1417058885854203e-05,
+        "sn": 9.904709258989897e-06,
+        "yo": 5.1813658501487225e-06,
+        "so": 3.683270222154533e-08,
+        "af": 5.097070356896438e-07,
+        "oc": 2.844444225047482e-06,
+        "ka": 1.0970696706635863e-07,
+        "be": 2.786849790936685e-07,
+        "tg": 2.4138756771208136e-08,
+        "sd": 2.7108208655590715e-07,
+        "gu": 2.8069679913755863e-08,
+        "am": 4.0623454822252825e-08,
+        "yi": 4.756969701702474e-06,
+        "lo": 4.758251463954366e-07,
+        "uz": 8.275534701951415e-10,
+        "fo": 1.0137667061371758e-07,
+        "ht": 3.1209408462018473e-06,
+        "ps": 6.079535097569533e-08,
+        "tk": 6.126650298199365e-10,
+        "nn": 7.737935811746866e-05,
+        "mt": 7.040211471576185e-07,
+        "sa": 6.774280336685479e-06,
+        "lb": 9.783718724065693e-09,
+        "my": 1.1873329412992462e-06,
+        "bo": 2.24018435801554e-06,
+        "tl": 7.865527004469186e-05,
+        "mg": 8.352890046303685e-10,
+        "as": 9.438321058041765e-08,
+        "tt": 7.422206849128088e-09,
+        "haw": 3.412472506170161e-05,
+        "ln": 9.468035244708517e-08,
+        "ha": 2.9019082692371967e-09,
+        "ba": 9.631039299407007e-10,
+        "jw": 5.908829734835308e-06,
+        "su": 3.3504252705540694e-09
+    }
+}

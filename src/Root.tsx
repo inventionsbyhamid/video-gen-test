@@ -1,20 +1,28 @@
-import {Composition} from 'remotion';
-import {MyComposition, myCompSchema} from './Composition';
+import {Composition, staticFile} from 'remotion';
+import {MyComposition} from './Composition';
+import { getAudioDurationInSeconds } from "@remotion/media-utils";
 import './style.css';
+import {config} from './modules/config';
 
 export const RemotionRoot: React.FC = () => {
 	return (
 		<>
 			<Composition
-				id="MyComp"
+				id="shorts"
 				component={MyComposition}
-				durationInFrames={240}
-				fps={30}
-				width={1280}
-				height={720}
-				schema={myCompSchema}
+				fps={config.FPS}
+				width={1080}
+				height={1920}
+				calculateMetadata={async () => {
+					const durationInSeconds = await getAudioDurationInSeconds(
+						staticFile("audio.wav"),
+					);
+					return {
+						durationInFrames: Math.floor(durationInSeconds * config.FPS),
+					};
+				}}
 				defaultProps={{
-					titleText: 'Welcome to Remotion with Tailwind CSS',
+					titleText: 'Ai Sorts Generator',
 					titleColor: '#000000',
 					logoColor: '#00bfff',
 				}}

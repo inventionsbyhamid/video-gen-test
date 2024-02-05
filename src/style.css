@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Luckiest Guy";
+    src: url("../public/fonts/LuckiestGuy-Regular.ttf");
+}
+
+.text-stroke-black {
+    -webkit-text-stroke: 4px #000000;
+}
+
+.text-stroke-red {
+    -webkit-text-stroke: 4px #FF0000;
+}
